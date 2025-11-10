@@ -12,9 +12,9 @@ Monorepo of the Ecommerce platform app.
 
 ## Usage
 ### Prerequisites
-- [NodeJS 20.17 LTS](https://nodejs.org/dist/v20.17.0/node-v20.17.0.pkg)
-- [Angular CLI v18](https://www.npmjs.com/package/@angular/cli)
-- [JDK 21](https://adoptium.net/temurin/releases/)
+- [NodeJS](https://nodejs.org/dist/v20.17.0/node-v20.17.0.pkg)
+- [Angular CLI](https://www.npmjs.com/package/@angular/cli)
+- [JDK](https://adoptium.net/temurin/releases/)
 - Docker ([Docker Desktop](https://docs.docker.com/engine/install/))
 
 ### Fetch dependencies

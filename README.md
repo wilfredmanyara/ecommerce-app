@@ -1,8 +1,6 @@
-# Ecommerce platform (fullstack project) Spring boot 3, Angular 18, Tailwind CSS, PostgreSQL, Kinde (2024)
+# Ecommerce platform (fullstack project) Spring boot, Angular, Tailwind CSS, PostgreSQL, Kinde
 
 Monorepo of the Ecommerce platform app.
-
-[Video tutorial](https://youtu.be/4npG3sAMT5I)
 
 ### Key Features:
 - 🛠️ Admin panel for products and categories 
@@ -16,7 +14,6 @@ Monorepo of the Ecommerce platform app.
 ### Prerequisites
 - [NodeJS 20.17 LTS](https://nodejs.org/dist/v20.17.0/node-v20.17.0.pkg)
 - [Angular CLI v18](https://www.npmjs.com/package/@angular/cli)
-- IDE ([VSCode](https://code.visualstudio.com/download), [IntelliJ](https://www.jetbrains.com/idea/download/))
 - [JDK 21](https://adoptium.net/temurin/releases/)
 - Docker ([Docker Desktop](https://docs.docker.com/engine/install/))
 
